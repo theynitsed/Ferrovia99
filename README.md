@@ -2,7 +2,7 @@
  My First Project - Ferrovia99
 
  
-This was my first project, and in case any beginner has any insights reading my project, it was already worth it. Only HTML and CSS were used.
+This was my first project, and in case any beginner has any insight reading my project, it was already worth it. Only HTML and CSS were used.
 
 Apr 6, 2022.
 
